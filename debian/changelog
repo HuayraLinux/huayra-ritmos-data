@@ -1,3 +1,10 @@
+huayra-ritmos-extra (0.0.2) unstable; urgency=low
+
+  * Agregando la dependencia de huayra-ritmos.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 01 Sep 2016 12:06:20 -0300
+
+
 huayra-ritmos-extra (0.0.1) unstable; urgency=low
 
   * Agregando ritmos iniciales.

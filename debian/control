@@ -10,6 +10,6 @@ Homepage: http://github.com/HuayraLinux/huayra-ritmos-extra
 
 Package: huayra-ritmos-extra
 Architecture: all
-Depends: ${misc:Depends}, node-webkit
+Depends: ${misc:Depends}, huayra-ritmos
 Description: Ritmos extras para huayra-ritmos
  Contiene una colección extendida de ritmos para huayra-ritmos.
