@@ -1,3 +1,10 @@
+huayra-ritmos-extra (0.0.4) unstable; urgency=medium
+
+  * Reparando el nombre de los archivos de sonidos.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 26 Sep 2016 14:29:59 -0300
+
+
 huayra-ritmos-extra (0.0.3) unstable; urgency=medium
 
   * Eliminación de sonidos incompatibles con la aplicación
